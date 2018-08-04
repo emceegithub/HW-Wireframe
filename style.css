@@ -1,0 +1,59 @@
+body {
+    width: 800px;
+    margin: auto;
+    font-size: 14px;
+    background: darkgray;
+}
+
+header {
+  height: 40px;
+  background: lightgray;
+  margin-top: 4px; 
+  text-align: center;
+  padding-top: 1em;
+}
+
+nav {
+  background: lightgray;
+  height: 40px;
+  margin-top: 4px; 
+  text-align: center;
+  padding-top: 1em;
+}
+
+
+section {
+  float: left;
+  height: 300px;
+  width: 358px;
+  margin-top: 4px;
+  margin-right: 4px;
+  padding-top: 1em;
+  background: lightgray;
+  text-align: center
+}
+
+aside {
+  float: right;
+  height: 300px;
+  width: 438px;
+  margin-top: 4px;
+  padding-top: 1em;
+  background: lightgray;
+  text-align: center
+}
+
+article {
+  height: 120px;
+  width: 94%;
+  background: darkgray;
+  margin: auto;
+}
+
+.class1 {
+  width: 94%;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  background: rgb(167, 14, 14);
+  margin: auto;
+}
